@@ -1,0 +1,10 @@
+/Users/asadar/RiderProjects/two/two/bin/Debug/netcoreapp2.0/two.deps.json
+/Users/asadar/RiderProjects/two/two/bin/Debug/netcoreapp2.0/two.runtimeconfig.json
+/Users/asadar/RiderProjects/two/two/bin/Debug/netcoreapp2.0/two.runtimeconfig.dev.json
+/Users/asadar/RiderProjects/two/two/bin/Debug/netcoreapp2.0/two.dll
+/Users/asadar/RiderProjects/two/two/bin/Debug/netcoreapp2.0/two.pdb
+/Users/asadar/RiderProjects/two/two/obj/Debug/netcoreapp2.0/two.csproj.CoreCompileInputs.cache
+/Users/asadar/RiderProjects/two/two/obj/Debug/netcoreapp2.0/two.AssemblyInfoInputs.cache
+/Users/asadar/RiderProjects/two/two/obj/Debug/netcoreapp2.0/two.AssemblyInfo.cs
+/Users/asadar/RiderProjects/two/two/obj/Debug/netcoreapp2.0/two.dll
+/Users/asadar/RiderProjects/two/two/obj/Debug/netcoreapp2.0/two.pdb

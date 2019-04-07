@@ -1,0 +1,10 @@
+/Users/asadar/RiderProjects/asadar.me/one/bin/Debug/netcoreapp2.0/one.deps.json
+/Users/asadar/RiderProjects/asadar.me/one/bin/Debug/netcoreapp2.0/one.runtimeconfig.json
+/Users/asadar/RiderProjects/asadar.me/one/bin/Debug/netcoreapp2.0/one.runtimeconfig.dev.json
+/Users/asadar/RiderProjects/asadar.me/one/bin/Debug/netcoreapp2.0/one.dll
+/Users/asadar/RiderProjects/asadar.me/one/bin/Debug/netcoreapp2.0/one.pdb
+/Users/asadar/RiderProjects/asadar.me/one/obj/Debug/netcoreapp2.0/one.csproj.CoreCompileInputs.cache
+/Users/asadar/RiderProjects/asadar.me/one/obj/Debug/netcoreapp2.0/one.AssemblyInfoInputs.cache
+/Users/asadar/RiderProjects/asadar.me/one/obj/Debug/netcoreapp2.0/one.AssemblyInfo.cs
+/Users/asadar/RiderProjects/asadar.me/one/obj/Debug/netcoreapp2.0/one.dll
+/Users/asadar/RiderProjects/asadar.me/one/obj/Debug/netcoreapp2.0/one.pdb
