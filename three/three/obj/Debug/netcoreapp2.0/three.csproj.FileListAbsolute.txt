@@ -1,0 +1,10 @@
+/Users/asadar/Documents/Coding/Github/C-Sharp-Learning/three/three/bin/Debug/netcoreapp2.0/three.deps.json
+/Users/asadar/Documents/Coding/Github/C-Sharp-Learning/three/three/bin/Debug/netcoreapp2.0/three.runtimeconfig.json
+/Users/asadar/Documents/Coding/Github/C-Sharp-Learning/three/three/bin/Debug/netcoreapp2.0/three.runtimeconfig.dev.json
+/Users/asadar/Documents/Coding/Github/C-Sharp-Learning/three/three/bin/Debug/netcoreapp2.0/three.dll
+/Users/asadar/Documents/Coding/Github/C-Sharp-Learning/three/three/bin/Debug/netcoreapp2.0/three.pdb
+/Users/asadar/Documents/Coding/Github/C-Sharp-Learning/three/three/obj/Debug/netcoreapp2.0/three.csproj.CoreCompileInputs.cache
+/Users/asadar/Documents/Coding/Github/C-Sharp-Learning/three/three/obj/Debug/netcoreapp2.0/three.AssemblyInfoInputs.cache
+/Users/asadar/Documents/Coding/Github/C-Sharp-Learning/three/three/obj/Debug/netcoreapp2.0/three.AssemblyInfo.cs
+/Users/asadar/Documents/Coding/Github/C-Sharp-Learning/three/three/obj/Debug/netcoreapp2.0/three.dll
+/Users/asadar/Documents/Coding/Github/C-Sharp-Learning/three/three/obj/Debug/netcoreapp2.0/three.pdb

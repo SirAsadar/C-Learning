@@ -682,11 +682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/asadar/Documents/Coding/Github/C# Learning/three/three/three.csproj",
+      "projectUniqueName": "/Users/asadar/Documents/Coding/Github/C-Sharp-Learning/three/three/three.csproj",
       "projectName": "three",
-      "projectPath": "/Users/asadar/Documents/Coding/Github/C# Learning/three/three/three.csproj",
+      "projectPath": "/Users/asadar/Documents/Coding/Github/C-Sharp-Learning/three/three/three.csproj",
       "packagesPath": "/Users/asadar/.nuget/packages/",
-      "outputPath": "/Users/asadar/Documents/Coding/Github/C# Learning/three/three/obj/",
+      "outputPath": "/Users/asadar/Documents/Coding/Github/C-Sharp-Learning/three/three/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
