@@ -5,14 +5,17 @@ namespace three{
         static void Main(string[] args) {
             Console.WriteLine("Enter a word!");
             String userInput = Console.ReadLine();
-            reverseString(userInput);
+            Console.WriteLine(reverseString(userInput));
         }
 
-        static void reverseString(String userInput) {
+        static String reverseString(String userInput) {
+            String reverseWord = "";
             Char[] word = userInput.ToCharArray();
             for (int i = word.Length - 1; i > -1; i--) {
-                Console.Write(word[i]);
+                reverseWord += word[i];
             }
+
+            return reverseWord;
         }
     }
 }
